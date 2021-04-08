@@ -1,1 +1,2 @@
-
+#! /bin/bash
+terminator -f -T "LittleOS" -e "/usr/lib/lit/littleos" 
