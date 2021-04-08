@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "Scan for active ip adresses."
+echo "Made by Kitten Technologies in Bash."
+read -p "Please write the first three numbers of the IP address: " I
+is_alive_ping()
+	{
+	ping -c 1 $i > /dev/null
+	[ $? -eq 0 ] && echo Node with IP: $i is up.
+	}
+for i in ${I}.{1..254} 
+do
+	is_alive_ping $i & disown
+done
