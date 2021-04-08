@@ -12,7 +12,6 @@ echo "4) Goblins"
 echo "5) Asterix & Obelix"
 echo "6) The Incredible Machine"
 echo "7) Tyrian"
-echo "8) Warcraft II: Tides of Darkness"
 read -p "Game: " game
 if [ "$game" = "1" ]
 then
@@ -35,7 +34,4 @@ then
 elif [ "$game" = "7" ]                       
 then                                         
         dosbox tyrian/Tyrian2k.exe
-elif [ "$game" = "8" ]                       
-then                                         
-        dosbox warcraft2/war2.exe
 fi
