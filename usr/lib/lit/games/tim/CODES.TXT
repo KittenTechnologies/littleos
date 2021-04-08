@@ -1,0 +1,22 @@
+page
+1.goldfish,cat,lightbulb
+2.rocket,dynamite,gun
+3.lightbulb,fan,bowling ball
+4.goldfish,lightbulb,cat
+5.pully,bucket,lightbulb
+6.dynamite,gun, rocket
+7. flashlight,cat lightbulb
+8.bellows,bowling ball,lightbulb
+9. bellows,pully,flashlight
+10.fan,cannon,jack in box
+11. bucket,bellows,bowling ball
+12. bowling ball,goldfish,bellows
+13. basket ball,cannon,fan
+14. jack in box,lever,cat
+15. bucket,jack in box,fan
+16. dynamite,gun,jack in box
+17.flashlight,cat,cannon
+18. bellows,bucket,flashlight
+19. jack in box,cannon,fan
+20. bowling ball,goldfish,rocket
+
