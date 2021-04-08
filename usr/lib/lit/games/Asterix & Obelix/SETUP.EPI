@@ -1,0 +1,130 @@
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; East Point Installer.                                               ;;
+;; installation configuration template.                                ;;
+;; Version 3.0 Nov 6th 1995                                            ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[Basics]
+company="Infogrames Multimedia"
+shortcompany="Infogrames"
+
+name="Astérix & Obélix"
+shortname="Obelix"
+
+dir="\infogrames\Obelix"
+shortdir="\infogram\Obelix"
+
+exe="obelixw.exe"
+shortexe="obelixw.exe"
+
+version="1.0"
+start="%C"
+
+translate="language.txt"
+
+;; ---------------------------------------------------------------------------
+[Flags]
+
+fullscreen=1
+ownlogo=0
+gameonly=0
+wing=0
+direct=1
+ereg=0
+ever=0
+
+;; ---------------------------------------------------------------------------
+[Displaynames]
+
+game="$G"
+deinstall="@7 $G"
+
+;; ---------------------------------------------------------------------------
+[Filenames]
+
+disk="Disk"
+number="1"
+
+exepath=
+temp="install.dat"
+log="install.log"
+
+;; ---------------------------------------------------------------------------
+[Disk1Files]
+
+file="language.txt"
+dos="install.exe"
+
+;; ---------------------------------------------------------------------------
+[SystemFiles]
+
+;; ---------------------------------------------------------------------------
+[CreatedFiles]
+
+file="BONUS1.MID"
+file="BRITANIA.MID"
+file="COMPLETE.MID"
+file="DRUM.BNK"
+file="HMIDRV.386"
+file="HMIMDRV.386"
+file="INTRO1.MID"
+file="INTRO2.MID"
+file="MELODIC.BNK"
+file="OBELIX1.MID"
+file="OBELIX2.MID"
+file="OBELIX3.MID"
+file="OBELIX4.MID"
+file="OBELIX5.MID"
+file="OBELIX6.MID"
+file="OBELIX7.MID"
+file="OBELIX8.MID"
+file="OBELIX9.MID"
+file="OBELIX10.MID"
+file="OBELIX11.MID"
+file="OBELIX12.MID"
+file="OBELIX13.MID"
+file="OBELIX14.MID"
+file="OBELIX15.MID"
+file="OBELIX16.MID"
+file="OBELIX17.MID"
+file="OBELIX18.MID"
+file="TITLE.MID"
+file="PATCHES.INI"
+
+[CreatedKeys]
+
+key="HKEY_CURRENT_USER\Software\infogrames\Asterix & Obelix"
+
+;; ---------------------------------------------------------------------------
+[FileTypes]
+
+;; --------------------------------------------------------------------------
+[Dialog]
+
+install="$G $V";
+copyright="(c)1996 $C                                  (c)1996 Les Editions Albert René / Goscinny-Uderzo"
+defaultpath="C:@D"
+bitmap="infogram.bmp"
+width=200
+depth=130
+icon="obelix.ico"
+
+
+;; --------------------------------------------------------------------------
+[Register]
+
+company="$C"
+subkey="%G"
+version="$G version $V"
+shortname="%G"
+
+;; --------------------------------------------------------------------
+[ElectronicReg]
+
+system="EREGLIB.DLL"
+reglib="EREGREG1.DLL"
+
+;; --------------------------------------------------------------------
+;; eof ;;
+

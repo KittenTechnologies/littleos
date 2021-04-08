@@ -1,0 +1,136 @@
+@L0
+Fran‡ais
+@L1
+Deutsch
+@L2
+English
+@L3
+Espa¤ol
+@L4
+Italiano
+@G0
+Choisissez l'interface graphique :
+couleurs
+     Votre choix : [ ]
+@M0
+Poss‚dez-vous une souris :
+Souris compatible Microsoft
+Pas de souris ou autres cas.
+     Votre choix : [ ]
+@S0
+Quel type de sons d‚sirez-vous ?
+Pas de sons
+Haut-Parleur PC
+Interface InterSound MDO
+Interface Compatible Adlib
+Interface SoundBlaster
+Interface MediaVision ProAudio
+        Votre Choix:
+@P0
+Votre configuration actuelle est la suivante :
+- Carte Vid‚o :
+couleurs
+- Souris compatible MicroSoft.
+- Pas de souris compatible MicroSoft.
+Confirmez-vous (O/N) ?
+@G2
+Choose the graphic interface :
+colors
+     Your choice : [ ]
+@M2
+Do you have a mouse :
+Compatible Microsoft mouse
+No mouse, or other cases.
+     Your choice : [ ]
+@S2
+Choose the sound interface :
+No sound
+Standard sounds
+InterSound MDO interface
+Adlib Compatible card
+SoundBlaster card
+MediaVision ProAudio card
+        Your choice:
+@P2
+Your present configuration is the following :
+- Video Card : 
+colors
+- Microsoft compatible Mouse.
+- No Microsoft compatible Mouse.
+Confirm (Y/N) ?
+@G1
+WAEHLEN SIE DIE GRAFIK-KARTE :
+FARBEN
+     IHRE WAHL   : [ ]
+@M1
+BESITZEN SIE EINE MAUS :
+MAUS KOMPATIBEL MICROSOFT
+KEINE MAUS ODER NICHT VON MICROSOFT
+     IHRE WAHL   : [ ]
+@S1
+WAEHLEN SIE IHRE SOUND-KARTE :
+KEIN TON.
+KEINE KARTE FUER DEN TON.
+TON MIT KARTE INTERSOUND MDO.
+TON MIT KARTE ADLIB.
+TON MIT KARTE SOUNDBLASTER.
+TON MIT KARTE MEDIAVISION PROAUDIO
+     IHRE WAHL   : [ ]
+@P1
+IHRE JETZTIGE KONFIGURATION IST DIE FOLGENDE:
+- GRAFIK-KARTE :
+FARBEN
+- MAUS KOMPATIBEL MICROSOFT
+- KEIN MAUS ODER NICHT VON MICROSOFT
+BESTAETIGEN SIE J/N ?
+@G3
+Escoge la tarjeta gr fica :
+colores
+     Tu elecci¢n : [ ]
+@M3
+Posees un rat¢n :
+Rat¢n compatible Microsoft
+Sin rat¢n u otros casos.
+     Tu elecci¢n : [ ]
+@S3
+¨ Qu‚ tipo de sonido deseas ? :
+Sin sonido.
+Sin interface sonoro.
+Sonido con Interface InterSound MDO.
+Sonido con Interface Adlib.
+Sonido con Interface SoundBlaster.
+Sonido con Interface MediaVision ProAudio
+     Tu elecci¢n : [ ]
+@P3
+Tu disposici¢n actual es la siguiente :
+- Tarjeta gr fica : 
+colores
+- Rat¢n compatible MicroSoft.
+- Sin rat¢n compatible MicroSoft.
+¨ Convalidas (S/N) ?
+@G4
+Scegliete la scheda grafica :
+colori
+La vostra scelta : [ ]
+@M4
+Avete un mouse ?
+Mouse compatibile MICROSOFT
+Senza mouse o altro
+La vostra scelta : [ ]
+@S4
+Che tipo (genere) di suoni vorreste avere :
+Niente suoni.
+Suoni senza interfaccia.
+Suoni con interfaccia InterSound MDO.
+Suoni con interfaccia Adlib.
+Suoni con interfaccia SoundBlaster.
+Suoni con interfaccia MediaVision ProAudio
+La vostra scelta : [ ]
+@P4
+La configurazione Š la seguente :
+- Scheda Video : 
+colori
+- Mouse compatibile MicroSoft.
+- Senza mouse o altro.
+Conferma (S/N) ?
+#
