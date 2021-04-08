@@ -1,2 +1,0 @@
-Made in Bash.
-A tool for scanning active IP adresses.

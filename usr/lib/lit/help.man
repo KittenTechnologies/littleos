@@ -1,2 +1,0 @@
-Made in Bash.
-A utility for helping to use LittleOS.

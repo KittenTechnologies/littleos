@@ -1,8 +1,0 @@
-Made in Python 3.
-This is a little Calculator program that can add, substract, multiply, divide, multiply x y times and find the square root.
-Let's take two numbers, x and y:
-	-To add them, write 'x+y'. Ex.: 4+10
-	-To substract them, write 'x-y'. Ex.: 10-4
-	-To multiply them, write 'x*y'. Ex.: 41*32
-	-To divide them, write 'x/y'. Ex.: 21/12
-	-To find the square root for x, write 'x~'. Ex.: 4~

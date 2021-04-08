@@ -1,2 +1,0 @@
-Made in Python 3.
-A decipher for messages written with Caesar's Cipher.
