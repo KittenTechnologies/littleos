@@ -4,7 +4,7 @@ echo "Help Facility for LittleOS"
 echo "Made by Kitten Techologies in Bash."
 echo "Type 'COMM' for a list of commands. Type a command to see it's manual. Type 'quit' to exit helper."
 read -p "HelpX: " helper
-cd /usr/lib/lit
+cd /usr/lib/lit/prog
 while :
 do
 	if [ "$helper" == "quit" ]                                                                                               
@@ -14,7 +14,7 @@ do
 	then
 		ls *.lit
 	else                                                                                                     
-		less ${helper}.man
+		less man/${helper}.man
 	fi
 read -p "HelpX: " helper
 done
