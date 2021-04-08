@@ -10,6 +10,6 @@ do
 	then
 		break
 	else
-		"/usr/lib/lit/${prompt}.lit"
+		"/usr/lib/lit/prog/${prompt}.lit"
 	fi
 done
