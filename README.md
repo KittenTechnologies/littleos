@@ -1,5 +1,5 @@
 # littleos
-A interactive bunch of programs.
+A interactive bunch of programs for Linux.
 To install, type: git clone https://github.com/KittenTechnologies/littleos.git; sudo bash littleos/installer.sh
 ----This is a set of programs that you find in one place:
   Calculator;
