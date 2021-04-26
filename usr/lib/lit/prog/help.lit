@@ -14,7 +14,7 @@ do
 	then
 		ls *.lit
 	else                                                                                                     
-		less man/${helper}.man
+		less ../man/${helper}.man
 	fi
 read -p "HelpX: " helper
 done
