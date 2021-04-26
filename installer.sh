@@ -5,7 +5,7 @@ chmod -R 711 littleos/usr/lib/lit/littleos
 chmod -R 711 littleos/usr/lib/lit/prog/*
 chmod -R 777 littleos/usr/lib/lit/games/*
 chmod -R 755 littleos/usr/lib/lit/man*
-cp -p littleosh/usr/bin/* /usr/bin
+cp -p littleos/usr/bin/* /usr/bin
 cp -p -r littleos/usr/lib/lit/ /usr/lib/
 apt-get install dosbox
 apt-get install espeak
