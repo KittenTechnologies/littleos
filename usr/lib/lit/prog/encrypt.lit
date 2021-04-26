@@ -1,16 +1,16 @@
 #! /bin/python3
-print("Message unencryption program for LittleOS")
+print("Message encryption program for LittleOS")
 print("Made by Kitten Technologies in Python3")
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ"
-unencrypt = input("Please enter a message to unencrypt:")
-unencrypt = unencrypt.upper()
+encrypt = input("Please enter a message to unencrypt:")
+encrypt = encrypt.upper()
 key = int(input("Please enter the key number:"))
-unencrypted = ""
+encrypted = ""
 for currentCharacter in unencrypt:
     position = alphabet.find(currentCharacter)
-    newPosition = position - key
+    newPosition = position + key
     if currentCharacter in alphabet:
-        unencrypted = unencrypted + alphabet[newPosition]
+        encrypted = encrypted + alphabet[newPosition]
     else:
-        unencrypted = unencrypted + currentCharacter
-print("Your unencrypted message is", unencrypted)
+        encrypted = encrypted + currentCharacter
+print("Your encrypted message is", encrypted)
